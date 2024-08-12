@@ -10,10 +10,10 @@
                    projectFiles="true">
       <logicalFolder name="CLib" displayName="CLib" projectFiles="true">
         <logicalFolder name="common" displayName="common" projectFiles="true">
-          <itemPath>../CLib/Common/LibDef.h</itemPath>
+          <itemPath>../../../../../MPLABXProjects/CLib/Common/LibDef.h</itemPath>
         </logicalFolder>
         <logicalFolder name="system" displayName="system" projectFiles="true">
-          <itemPath>../CLib/System/TickTimer.h</itemPath>
+          <itemPath>../../../../../MPLABXProjects/CLib/System/TickTimer.h</itemPath>
         </logicalFolder>
       </logicalFolder>
       <logicalFolder name="f1" displayName="Configure" projectFiles="true">
@@ -61,7 +61,7 @@
         <logicalFolder name="common" displayName="common" projectFiles="true">
         </logicalFolder>
         <logicalFolder name="system" displayName="system" projectFiles="true">
-          <itemPath>../CLib/System/TickTimer.c</itemPath>
+          <itemPath>../../../../../MPLABXProjects/CLib/System/TickTimer.c</itemPath>
         </logicalFolder>
       </logicalFolder>
       <logicalFolder name="f1" displayName="Configure" projectFiles="true">
